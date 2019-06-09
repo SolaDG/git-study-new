@@ -3,4 +3,8 @@ day day up!
 aaaaaaaaaaaaaa!!
 bbb!!
 ccc!!
+<<<<<<< HEAD
 ddd!!
+=======
+eee!
+>>>>>>> dev
